@@ -1,3 +1,11 @@
 ion-content ion-toolbar {
-  --background: translucent;
+  --background: none;
+}
+
+.container {
+	div{
+		margin-bottom: 10px;
+		border-radius:20px;
+		overflow:hidden;
+	}
 }
